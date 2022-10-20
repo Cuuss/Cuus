@@ -13,7 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Front-end Website Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front-end Website Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkiye.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 - 📫 How to reach me: Cuus#5294(Discord)
